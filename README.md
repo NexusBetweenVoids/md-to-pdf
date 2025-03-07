@@ -1,6 +1,6 @@
 # Markdown to PDF Converter
 
-A web application that converts Markdown files to PDF documents with advanced formatting and features.
+A web application that converts Markdown files to PDF documents with advanced formatting and features. Build using Claude Code. 
 
 [![License: GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://opensource.org/license/gpl-3-0)
 
