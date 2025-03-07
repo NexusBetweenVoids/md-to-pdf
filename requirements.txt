@@ -1,0 +1,6 @@
+flask==2.3.3
+werkzeug==2.3.7
+markdown==3.3.4
+weasyprint==52.5
+pymdown-extensions==9.9.1
+beautifulsoup4==4.12.2
