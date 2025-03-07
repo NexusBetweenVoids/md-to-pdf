@@ -18,6 +18,7 @@ A web application that converts Markdown files to PDF documents with advanced fo
 ## Screenshots
 
 <!-- Add screenshots of your application here -->
+![Screenshot of the App](https://raw.githubusercontent.com/NexusBetweenVoids/md-to-pdf/refs/heads/main/screenshot.png)
 
 ## Installation
 
